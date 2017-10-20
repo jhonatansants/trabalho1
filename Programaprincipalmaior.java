@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mateus.araujo
+ * @author Jhonatan
  */
 public class Programaprincipalmaior {
     
